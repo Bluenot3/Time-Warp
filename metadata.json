@@ -1,0 +1,10 @@
+{
+  "name": "Chronos Earth — 1900–Present 3D Historical Time Machine",
+  "description": "Enter any address worldwide and scrub across any year from 1900 to the present day to explore high-detail 3D historical reenactments—including the Great Depression, World War II, and urban transformations—grounded by Google Maps and AI historical synthesis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
